@@ -8,7 +8,8 @@ This directory contains the architectural, technical, and implementation decisio
 |---|---|
 | [Automated AI Software Developer — Detailed Architecture Plan](./automated-ai-software-developer-detailed-architecture-plan.md) | High-level architecture, principles, lifecycle, major boundaries and incremental strategy. **Start here.** |
 | [Technical Specification v1](./technical-specification-v1.md) | Concrete component responsibilities, interfaces, invariants, idempotency and external integration rules. |
-| [Development Cookbook](./development-cookbook.md) | Practical step-by-step implementation guide from repository bootstrap through the autonomous development loop, recovery, review and dogfooding. **Use this when building.** |
+| [Development Cookbook](./development-cookbook.md) | Human-oriented step-by-step implementation guide from repository bootstrap through the autonomous development loop, recovery, review and dogfooding. |
+| [AI Agent Development Cookbook](./ai-agent-development-cookbook.md) | **Operating manual for Claude Code.** Behavioral rules, decision-making, ambiguity escalation, human interaction, implementation workflow, recovery, safety and autonomous-development procedures. **Hand this to Claude Code.** |
 
 ## Task intake and workflow
 
