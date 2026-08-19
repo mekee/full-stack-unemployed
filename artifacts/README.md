@@ -1,6 +1,6 @@
 # Automated AI Software Developer — Artifact Index
 
-This directory contains the architectural and technical decisions for the automated AI software-development agent. The documents are intentionally separated so a future agent session can recover the design from this index without relying on conversational context.
+This directory contains the architectural, technical, and implementation decisions for the automated AI software-development agent. The documents are intentionally separated so a future agent session can recover the design from this index without relying on conversational context.
 
 ## Start here
 
@@ -8,6 +8,7 @@ This directory contains the architectural and technical decisions for the automa
 |---|---|
 | [Automated AI Software Developer — Detailed Architecture Plan](./automated-ai-software-developer-detailed-architecture-plan.md) | High-level architecture, principles, lifecycle, major boundaries and incremental strategy. **Start here.** |
 | [Technical Specification v1](./technical-specification-v1.md) | Concrete component responsibilities, interfaces, invariants, idempotency and external integration rules. |
+| [Development Cookbook](./development-cookbook.md) | Practical step-by-step implementation guide from repository bootstrap through the autonomous development loop, recovery, review and dogfooding. **Use this when building.** |
 
 ## Task intake and workflow
 
